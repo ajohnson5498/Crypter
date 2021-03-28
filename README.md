@@ -1,0 +1,1 @@
+This Project was used to succesfully bypass Windows Defender to execute an encrypted payload using the Portable Executer Loader technique. This was done by compiling dynamically during runtime using the CodeDom assembly.
